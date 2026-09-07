@@ -1,0 +1,8 @@
+{
+  "name": "Remix Modular Developer Portfolio",
+  "description": " Computer Engineering portfolio of Oliver Miguel L. Nunag featuring hardware-software integration, cloud solutions, and dedicated REST API endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
