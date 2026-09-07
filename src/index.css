@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Newsreader", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #F5F2ED;
+  color: #1A1A1A;
+  font-family: var(--font-sans);
+}
+
+body {
+  background-color: #F5F2ED;
+  color: #1A1A1A;
+  min-height: 100vh;
+}
+
+::selection {
+  background-color: #1A1A1A;
+  color: #F5F2ED;
+}
