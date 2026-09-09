@@ -1,7 +1,8 @@
 # MAIN PORTFOLIO SITE 
 Oliver Miguel L. Nunag 
 BS CPE BATCH 121 
-LAUNCH VIA BAT FILE
+LAUNCH VIA BAT FILE 
+/ln
 A full stack web application engineered to showcase technical proficiencies across software development and cloud architecture. Designed with a rigorous focus on Data Gathering, Discernment, and Decision making, this portfolio bridges the gap between hardware prototyping and scalable web services. The architecture reflects best practices suited for enterprise environments including telecommunications and network security sectors.
 
 System Architecture
